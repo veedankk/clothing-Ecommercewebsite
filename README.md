@@ -68,3 +68,12 @@ To run this project on your local machine, follow these steps:
 * Order Tracking for Users
 * Email Notifications for Orders
 * Deployment to a Live Server
+
+
+## Website Images
+
+![Image](https://github.com/user-attachments/assets/90b3e3c0-c9c1-4b16-ac61-5882ea587b40)
+![Image](https://github.com/user-attachments/assets/12b57f86-fcb7-4c0d-9093-a1625134ed14)
+![Image](https://github.com/user-attachments/assets/21a928ab-6356-4001-a3c0-5bdeeeeb84d8)
+![Image](https://github.com/user-attachments/assets/9645fabe-8a7e-43bd-a5ac-48224cd70446)
+![Image](https://github.com/user-attachments/assets/462dfc8b-28ae-4b0f-a230-ad3d52b064e6)
